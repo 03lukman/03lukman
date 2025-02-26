@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Lukman, a Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://lukmannurhakim.my.canva.site/)<br>👨🏼‍🎓 studying informatics from Institut Bisnis & Kesatuan Bogor<br>
 
