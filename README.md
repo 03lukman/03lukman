@@ -1,5 +1,11 @@
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Lukman Nurhakim
+
+### :man_technologist: About Me
+- 📚 I'm currently studying in Institut Bisnis Dan Informatika Kesatuan majoring Bachelor of Information Technology, Indonesia. I love coding websites and mobile and am looking for more opportunities to work on a freelance basis. Feel free to check my work or get in touch.
+
+---
 # Hello World!, I'm Lukman, a Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://lukmannurhakim.my.canva.site/)<br>👨🏼‍🎓 studying informatics from Institut Bisnis & Kesatuan Bogor<br>
+🛜 currently working on my own [webpage](https://lukmannurhakim.my.canva.site/)<br>
 
 
 ### 🌐 Socials:
